@@ -1,0 +1,25 @@
+.disabledList{
+    
+        pointer-events:none; 
+        opacity:0.6;        
+    
+}
+
+#todoList{
+        border: 10px solid rgb(193, 193, 204);
+        border-radius: 1rem;
+}
+
+#mainnavbar{
+        /* background: rgb(95, 167, 66); */
+        background: linear-gradient(#051937, #A8EB12);
+        /* background-image: radial-gradient(circle, #051937, #004d7a, #008793, #00bf72, #a8eb12); */
+        /* background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+            linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+            linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%); */
+}
+
+#welcomeText{
+        text-align: center;
+        
+}
